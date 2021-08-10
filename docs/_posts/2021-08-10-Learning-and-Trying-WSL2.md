@@ -10,4 +10,6 @@ With WSL2 however, I believe on fresh install of a distribution without a Deskto
 
 There were several issues that I've encountered while setting up my work environment with my fresh linux install however, and they took quite a bit of work to get by. This is largely due to the lack of documentation on some aspects and my lack of experience. The good news is that after some work all of the roadblocks were overcame and I'm happily working on my new customized work environment.
 
+![_assets/images/scrot2.png](Screenshot 1)
 
+![_assets/images/scrot1.png](Screenshot 2)
