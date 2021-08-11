@@ -29,6 +29,7 @@ url: "https://SWLK.github.io" # the base hostname & protocol for your site, e.g.
 twitter_username: 
 github_username: SWLK 
 linkedIn_url: "https://www.linkedin.com/in/sean-kong-4795b8194/"
+show_excerpts: true
 
 # Build settings
 theme: minima
