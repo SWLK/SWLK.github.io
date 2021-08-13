@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-Ever since last year, after getting my first mechanical keyboard, which was a cheap prebuilt from Amazon, I've been long to one day create my own. That is exactly what I had achieved in May this year.
+Ever since last year, after getting my first mechanical keyboard, which was a cheap prebuilt from Amazon, I've been longing to one day create my own. That is exactly what I had achieved in May this year.
 
 ![kyria-stacked](/assets/images/kyria-stacked.jpg)
 
