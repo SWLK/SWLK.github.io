@@ -21,16 +21,19 @@ Kyria
 	+ I don't think it impacts the sound and feel in any way, it's just that there's no support between the top plate and the PCB.
 	+ I've placed O-rings between the PCB and the top plate at each standoff hole, but I don't think the rings are thick enough to make a difference.
 + OLEDs and Arduino Pro Micros were sourced from [Little Keyboards](https://www.littlekeyboards.com).
+![Kyria-stacked](/assets/images/kyria-stacked.jpg)
 
 Maypad
 + Kit includes PCB and parts from [KeyHive](https://keyhive.xyz).
 + Gazzew Bobagum switches
 + Cherry Stabalizers
+![MayPad](/assets/images/maypad.jpg)
 
-Navi10
+Navi
 + Kit includes PCB and parts from [KeyHive](https://keyhive.xyz).
 + Gateron Milky Top Yellows from [Aliexpress Dye Fetish Store](https://www.aliexpress.com/item/4000342431537.html?spm=a2g0o.productlist.0.0.7952381cqdBUr0&algo_pvid=ceb2ed0d-8b35-4ba3-823a-ca310b3c4173&algo_exp_id=ceb2ed0d-8b35-4ba3-823a-ca310b3c4173-1&pdp_ext_f=%7B%22sku_id%22%3A%2210000001407296628%22%7D) for Navigation Cluster.
 + Gazzew Bobagum for arrow keys.
+![Navi10](/assets/images/navi10.jpg)
 
 Keycap sets used:
 + Hami Melon Cherry Keycaps from [Aliexpress Idobao](https://www.aliexpress.com/item/4000069304725.html?spm=a2g0o.productlist.0.0.52917a7cvebht1&algo_pvid=1b3dd068-5c55-40da-abaa-9ce0e2472450&algo_exp_id=1b3dd068-5c55-40da-abaa-9ce0e2472450-6&pdp_ext_f=%7B%22sku_id%22%3A%2210000000178734065%22%7D)
