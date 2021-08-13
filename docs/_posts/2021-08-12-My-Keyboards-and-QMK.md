@@ -27,6 +27,7 @@ Here's a [link](https://github.com/SWLK/qmk_firmware/tree/dev_branch/keyboards/k
 
 I've also created keymaps for the [MayPad](https://github.com/SWLK/qmk_firmware/tree/dev_branch/keyboards/keyhive/maypad) and [Navi10](https://github.com/SWLK/qmk_firmware/tree/dev_branch/keyboards/navi10).
 
+All of my changes are made to dev_branch:
 + Kyria
 	+ There are changes made to the keyboard level `rules.mk` file
 	+ My keymap is found within the SWLK folder within the `keymaps` directory
